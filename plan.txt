@@ -1,0 +1,32 @@
+V1:
+
+Grid component
+  * width
+  * height
+
+Sprite component
+  * collection of cells
+
+Cell component
+  * position
+  * colour
+
+Gulp to run tests and watch
+
+
+
+V1.1:
+
+Keyboard event manager
+  * listens for key-presses
+  * arrow keys to move sprite
+
+
+
+V2:
+
+Sprite component
+  * active state
+    > hightlights
+    > responds to keyboard
+
